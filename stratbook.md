@@ -28,4 +28,10 @@ Executes:
   - **Player 3**: Third spawn. Throw bouncy flash through monster then entry out monster. Keep gun out.
   - **Player 4**: Fourth spawn. Throw runny flash then take monster with P3. Keep gun out.
   - **Player 5**: Fifth spawn. Take monster with P3 and P4, play fireman if monster is mollied.
--
+- Cat Burgler:
+  - *Minimum Required Nades*: 3 smokes, 1 molly, 2 flashes
+  - *Situation*: Water control
+  - **Player 1**: Throw heaven smoke, molly toxic, flash over cat then flash over monster.
+  - **Player 2**: Throw left graffiti smoke, then prepare to take site through short. On pillar flash from P1, entry into site and swing toward bridge. Jump into pit and clear pit and toxic.
+  - **Player 3**: Throw right graffiti smoke, then get set with P2 at short. Follow P2 to bridge, clear right side pillar and close wood wall. Jump into pit with P2.
+  - **Player 4, Player 5**: Get set outside monster, and take site on P1 flashes. Trade out P2 and P3 but try to stay alive and preserve nades for post plant.
