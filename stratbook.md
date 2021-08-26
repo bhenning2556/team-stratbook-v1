@@ -2,6 +2,7 @@
 maps: [overpass](#Overpass), [mirage](#Mirage)
 
 ## Overpass
+[back to top](#)
 
 Defaults:
 - CT:
@@ -38,6 +39,7 @@ Executes:
   - **Player 4, Player 5**: Get set outside monster, and take site on P1 flashes. Trade out P2 and P3 but try to stay alive and preserve nades for post plant.
 
 ## Mirage
+[back to top](#)
 
 Defaults:
 
