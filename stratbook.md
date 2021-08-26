@@ -1,4 +1,5 @@
 # Team What Up Shawny Stratbook
+maps: [overpass](#Overpass), [mirage](#Mirage)
 
 ## Overpass
 
@@ -35,3 +36,36 @@ Executes:
   - **Player 2**: Throw left graffiti smoke, then prepare to take site through short. On pillar flash from P1, entry into site and swing toward bridge. Jump into pit and clear pit and toxic.
   - **Player 3**: Throw right graffiti smoke, then get set with P2 at short. Follow P2 to bridge, clear right side pillar and close wood wall. Jump into pit with P2.
   - **Player 4, Player 5**: Get set outside monster, and take site on P1 flashes. Trade out P2 and P3 but try to stay alive and preserve nades for post plant.
+
+## Mirage
+
+Defaults:
+
+- CT:
+  - B Anchor: Riley
+  - Cat: Forest
+  - Mid: Benny
+  - A: Seany, Nathan
+
+- T:
+  - B Apts: Forest
+  - Mid: Benny, Seany
+  - A Ramp: Riley
+  - Palace: Nathan
+
+Executes:
+
+- A Split:
+  - *Minimum Required Nades*: 4 smokes, 1 molly, 2 flashes
+  - *Situation*: from spawn, fast play.
+  - *Overview*: 2 players go mid with window and cat smoked off and take connector. 2 go A ramp and smoke CT and deep jungle. 1 Goes palace and mollys under balc. Lamp flash over and all 5 players collapse on site. Plant opposite default for ramp if possible.
+  - P1: Closest mid spawn player. Keep gun out, Take first contact mid. Get flashed into con by other mid player.
+  - P2: Second closest mid player. Smoke window, take mid with P1. Flash P1 into con and follow up/trade.
+  - P3: Smoke cat and go palace. Molly under balc on site take. Assist site take, stay alive for post plant.
+  - P4: Hold ramp, then on con flash setup for deep jungle smoke and throw right away. Entry into site from ramp.
+  - P5: Set up for CT smoke. Throw on con flash, then immediately set up for lamp flash. Throw lmap flash AFTER SMOKES LAND to signal site take, then follow up P4 and trade.
+
+- B Split:
+  - *Minimum Required Nades*: 4 smokes, 2 mollys
+  - *Situation*: from spawn, fast play. Gun round or anti-force.
+  - *Overview*: 2 Players go Apts, 3 Players go mid. Smoke window and top con off spawn. Flash con and take cat fast. Apts players smoke market window and market door, molly van and molly bench. On bench molly cat players take contact and split into site. 
