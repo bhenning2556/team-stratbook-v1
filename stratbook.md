@@ -70,4 +70,22 @@ Executes:
 - B Split:
   - *Minimum Required Nades*: 4 smokes, 2 mollys
   - *Situation*: from spawn, fast play. Gun round or anti-force.
-  - *Overview*: 2 Players go Apts, 3 Players go mid. Smoke window and top con off spawn. Flash con and take cat fast. Apts players smoke market window and market door, molly van and molly bench. On bench molly cat players take contact and split into site. 
+  - *Overview*: 2 Players go Apts, 3 Players go mid. Smoke window and top con off spawn. Flash con and take cat fast. Apts players smoke market window and market door, molly van and molly bench. On bench molly cat players take contact and split into site.
+
+
+## Dust II
+[back to top](#)
+
+- Nade Lineups:
+  - [B Doors](https://medal.tv/clips/63525065/d1337uLE8YZm)
+  - [Mid to B smoke and flash](https://medal.tv/clips/63526133/d1337PpUhPpC)
+  - [B retake nades](https://medal.tv/clips/63526104/d1337MqzUvDY)
+  - [A Long Flashes and Corner Smoke](https://medal.tv/clips/63528517/d1337zUsNgfd)
+  - [A Long Cross Smokes](https://medal.tv/clips/63528032/d1337CWTXnue)
+  - [A Long Car Molly](https://medal.tv/clips/63526166/d1337U5NetDx)
+  - [A Site back default molly](https://medal.tv/clips/63527902/d1337scCMYL9)
+  - [xbox smokes](https://medal.tv/clips/63526221/d13376kwpHFO)
+  - [Cat flash](https://medal.tv/clips/63527823/d1337gtVz1Sa)
+  - [Cat flash from lower](https://medal.tv/clips/63527532/d1337afa1h0t)
+  - [Cat execute nades](https://medal.tv/clips/63527276/d1337CMrb8Tl)
+  - [Mid doors molly](https://medal.tv/clips/63526196/d1337bmbf3vD)
