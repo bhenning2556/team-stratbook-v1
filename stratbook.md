@@ -1,5 +1,5 @@
 # Team What Up Shawny Stratbook
-maps: [overpass](#Overpass), [mirage](#Mirage)
+maps: [overpass](#Overpass), [mirage](#Mirage), [dust 2](#Dust2)
 
 ## Overpass
 [back to top](#)
@@ -73,7 +73,7 @@ Executes:
   - *Overview*: 2 Players go Apts, 3 Players go mid. Smoke window and top con off spawn. Flash con and take cat fast. Apts players smoke market window and market door, molly van and molly bench. On bench molly cat players take contact and split into site.
 
 
-## Dust II
+## Dust2
 [back to top](#)
 
 - Nade Lineups:
