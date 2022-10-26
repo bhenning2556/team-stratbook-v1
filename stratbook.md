@@ -12,7 +12,7 @@ Defaults:
   - **Monster/Water**: Forest
   - **Connector**: Front 2 spawns
   - **Fountain/A**: Benny, Mike, David, Kyle
-- T (Monster Take)
+- T (Water Take)
   - **Monster/Water**: Forest, Benny, Kyle
   - **T Con**: David
   - **Connector**: Mike
@@ -21,19 +21,19 @@ Executes:
 - VP (B rush):
   - *Minimum Required Nades*: 4 smokes, 2 molly, 7 flash
   - *Situation*: From spawn. Pistol round, low econ or pace change round.
-  - **Player 1**: Front/best spawn. Throw mid site smoke, then throw toxic molly. Call and throw 2 pillar flashes. Post plant monster or water.
+  - **Player 1**: Front/best spawn. Throw mid site smoke, then throw [toxic molly](https://medal.tv/games/csgo/clips/G9Q4FG8RvI9na/d1337Lnbo3k8). Call and throw 2 [pillar flashes](https://medal.tv/games/csgo/clips/G9Qmf4wKzUdXI/d1337FvjH7Ox). Post plant monster or water. [example](https://medal.tv/games/csgo/clips/G9QTJLZFUo0p3/d1337VeVAkYz)
   - **Player 2**: Second best spawn. Throw bridge smoke, then flash over monster twice. Take water. Use left over nades for post plant.
-  - **Player 3**: Third spawn. Drop smoke at car for P5. Throw bouncy flash through monster then entry out monster. Keep gun out.
-  - **Player 4**: Fourth spawn. Throw runny flash then take monster with P3. Keep gun out.
-  - **Player 5**: Fifth spawn. Throw monster lurk smoke, then throw heaven smoke. Flash water for P2.
+  - **Player 3**: Third spawn. Drop smoke at car for P5. Throw bouncy flash through monster then entry out monster. Keep gun out. [example](https://medal.tv/games/csgo/clips/G9SxraJ9f5Xlo/d1337LrqNTfO)
+  - **Player 4**: Fourth spawn. Throw runny flash then take monster with P3. Keep gun out. [example](https://medal.tv/games/csgo/clips/G9RpD6_gNotWu/d1337unAKvh1)
+  - **Player 5**: Fifth spawn. Throw [monster lurk smoke](https://www.youtube.com/watch?v=ucfpfPJ4Xvs), then throw [heaven smoke](https://medal.tv/games/csgo/clips/G8c5EvoIESDEQ/d1337YUywrqv). Flash water for P2. [example](https://medal.tv/games/csgo/clips/G8dOiU2TT7grO/d1337glyojPc)
 - Cat Burgler (pit take):
   - *Minimum Required Nades*: 3 smokes, 1 molly, 2 flashes
   - *Situation*: Water control
-  - **Player 1**: Throw heaven smoke, molly toxic, flash over monster twice.
+  - **Player 1**: Throw heaven smoke, molly toxic, flash over monster twice. [example](https://medal.tv/games/csgo/clips/G9L1HJ7s0Gwki/d1337d1NipdO)
   - **Player 2**: Hold short, then on 2nd flash over monster, entry into site and swing toward bridge. Jump into pit and clear pit and toxic.
   - **Player 3**: Hold smoke incase cts molly short. Go out with P2 and trade pit.
-  - **Player 4**: Throw right graffiti smoke, then get set with P2 P3 at short. Clear right side pillar and close wood wall. Jump into pit with P2. Optionally, boost P2 heaven for post plant.
-  - **Player 5**: Throw left graffiti smoke, then lurk out monster after short take to clean up.
+  - **Player 4**: Throw [right graffiti smoke](https://medal.tv/games/csgo/clips/G9KGI2i8DFqrG/d1337DcEdWUV), then get set with P2 P3 at short. Clear right side pillar and close wood wall. Jump into pit with P2. Optionally, boost P2 heaven for post plant.
+  - **Player 5**: Throw [left graffiti smoke](https://medal.tv/games/csgo/clips/G9K9v3N1DpXSC/d13378AVQbJr), then lurk out monster after short take to clean up.
 
 Nade lineups:
 - CT
