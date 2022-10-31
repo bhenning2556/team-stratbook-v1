@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Navbar from '../components/navbar'
-import Overpass from './overpass'
+import Overpass from './maps/overpass'
 
 export default function Home() {
   return (
