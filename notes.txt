@@ -1,0 +1,80 @@
+preferred days:
+Eric - friday/sunday
+
+General T-side roles:
+Eric - Entry
+Riley - Entry/2nd Entry
+Seany - 3rd/4th Entry
+Benny - 3rd/4th 
+Forest - Lurk/rotator
+
+
+Mirage:
+ct:
+Eric - cat
+Benny - Window
+Seany - conn
+Riley - B anchor
+Forest - A anchor
+
+t:
+Eric - ramp
+Riley - apts/underpass
+Seany - mid
+Benny - mid
+Forest - palace/apts/underpass
+
+
+Inferno:
+ct:
+Eric - apts/pit
+Benny - arch
+Riley - lane
+Forest - B
+Seany - B
+
+t:
+Eric - alt mid
+Riley - alt mid
+Benny - mid
+Forest - banana
+Seany - banana
+
+Overpass:
+ct:
+Benny - A
+Riley - A/conn
+Eric - B
+Forest - B
+Seany - B
+
+
+Nuke:
+ct:
+Benny - outside
+Seany - mini/secret
+Forest - heaven rotate
+Riley - A anchor
+Eric - ramp
+
+
+Ancient:
+ct: 
+Eric - donut
+
+Vertigo:
+ct:
+Eric - elevators/mid/a
+Forest - B
+Benny - A
+Riley - mid
+Seany - A
+
+
+Dust II:
+ct:
+Eric - a/long
+Benny - mid/b rotate
+Riley - b anchor
+Seany - a/long
+Forest - a/long
